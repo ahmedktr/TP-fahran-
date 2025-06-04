@@ -21,3 +21,7 @@ let rep = 10;
 while (rep < 10) {
     console.log("message2");
 }
+function addition(a, b) {
+    return a + b;
+}
+console.log(addition(5, 5));

@@ -27,3 +27,19 @@ let rep=10;
 while(rep<10){
     console.log("message2")
 }
+
+
+//correction
+function addition (a : number, b: number) : number {
+    return a +b;
+}
+console.log(addition(5,5))
+
+
+
+
+let rep1 = 0;
+while (rep1 < 10) {
+    console.log("message2");
+    rep1++; 
+}
